@@ -1,4 +1,4 @@
-# local gitiignore
+# local gitignore
 *.tmp
 *.out
 tmp/*
