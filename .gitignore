@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 # local gitiignore
 *.tmp
 *.out
 tmp/*
 
+=======
+# local gitignore
+*.tmp
+*.out
+tmp/*
+>>>>>>> 371a4e237befaa9ebe4f2c11232c213522ad6d1a
